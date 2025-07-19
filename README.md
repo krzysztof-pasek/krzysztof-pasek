@@ -1,4 +1,6 @@
 ### Hey, I’m Krzysztof 👋
+![Profile views](https://komarev.com/ghpvc/?username=krzysztof-pasek&style=flat&label=Profile%20views)
+![Followers](https://img.shields.io/github/followers/krzysztof-pasek?style=flat&label=Followers)
 
 ---
 
