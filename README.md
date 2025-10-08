@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://i.ibb.co/WNwxwcwR/Banner.png" alt="My banner" width="100%" />
-</p>
+</p> -->
 
 # Hi, I'm Krzysztof! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30"> ✨
 
